@@ -1,7 +1,10 @@
-PHP_2nd-Year
-============
+PHP_2nd-Year/ Class 1 and 2
+===========================
 
-PHP Class Note and Codes
+PHP Class Lab Pratice 
 ST.lawrence University 
 Faculty of ICT 
-Dean of ICT 
+Lecturer: John Bosco Lubega
+Tutor:    Kevin Janvier
+
+Database Name: student_reg.sql

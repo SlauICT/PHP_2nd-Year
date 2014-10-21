@@ -8,7 +8,7 @@ mysql_select_db("student_reg")or die("cannot select Database");
 $sql= mysql_query("select * from name_tbl");
 echo'<table width="43%" border="1" align="center">
   <tr>
-  <h1 align="center">View All (Student_reg) Database </h1>
+  <h1 align="center">View All (Student_reg) Database </h1><a href="index.php">Back to Main</a>
    <td width="14%"><strong>Id</strong></td>
     <td width="43%"><strong>First Name</strong></td>
     <td width="43%"><strong>Second Name</strong></td>

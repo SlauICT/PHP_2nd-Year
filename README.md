@@ -5,7 +5,7 @@ PHP Class Lab Pratice
 ST.lawrence University 
 Faculty of ICT 
 Lecturer: Mr.John Bosco Lubega
-Tutor:    Kevin Janvier
+Tutor:    Kevin Janvier Chinabalire
 
 Database Name: student_reg.sql
 

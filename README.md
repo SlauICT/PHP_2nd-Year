@@ -8,3 +8,5 @@ Lecturer: Mr.John Bosco Lubega
 Tutor:    Kevin Janvier
 
 Database Name: student_reg.sql
+
+N.B: You can Modify the root username and Password which correspond with your Server

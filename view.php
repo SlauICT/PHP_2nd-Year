@@ -1,3 +1,4 @@
+<title>St.lawrence University | View</title>
 
 <?php
 $db=mysql_connect("localhost", "root", "root")or die("cannot connect to the Server !!!!Sorry .. try again later"); 
@@ -5,11 +6,12 @@ mysql_select_db("student_reg")or die("cannot select Database");
 ?>
 <?php
 $sql= mysql_query("select * from name_tbl");
-echo'<table width="43%" border="1">
+echo'<table width="43%" border="1" align="center">
   <tr>
-    <td width="14%">Id</td>
-    <td width="43%">First name</td>
-    <td width="43%">Second Name</td>
+  <h1 align="center">View All (Student_reg) Database </h1>
+   <td width="14%"><strong>Id</strong></td>
+    <td width="43%"><strong>First Name</strong></td>
+    <td width="43%"><strong>Second Name</strong></td>
   </tr>'; 
 	 while($hello=mysql_fetch_array($sql)){
 	 echo'
